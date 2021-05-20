@@ -1,6 +1,6 @@
 Learning NestJS by making an enterprise ready API
 
-REST API, Unit Testing, E2E Testing
+REST API, Unit Testing, E2E Testing with jest
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
